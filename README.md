@@ -117,7 +117,7 @@ NODE_ENV=development
 **For MongoDB Atlas (Cloud):**
 - Sign up at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - Create a free cluster
-- Get your connection string (e.g., `mongodb+srv://username:password@cluster.mongodb.net/dynamic-pricing`)
+- Get your connection string (e.g., `mongodb+srv://username:password@cluster.mongodb.net/dIRECTORY`)
 - Replace `MONGO_URI` in `.env` with your Atlas connection string
 
 **For Local MongoDB:**
