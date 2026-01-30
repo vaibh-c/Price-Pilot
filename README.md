@@ -110,7 +110,7 @@ cp .env.example .env
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/dynamic-pricing
+MONGO_URI=mongodb://localhost:PORT/DIRECTORY
 NODE_ENV=development
 ```
 
